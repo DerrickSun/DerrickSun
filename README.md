@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerrickSun
-- 👀 I’m interested in games
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in games, coffee
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on abroad
 - 📫 How to reach me ,my email is xsun0403@163.com
 
